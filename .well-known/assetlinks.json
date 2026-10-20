@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.kiranova.chessanalyser",
       "sha256_cert_fingerprints": [
-        "E5:B7:63:6C:E7:E5:52:EA:1A:F5:E0:77:29:70:13:E1:55:38:B3:30:EB:5B:9D:57:5C:E5:D1:41:36:F5:85:2D"
+        "E5:B7:63:6C:E7:E5:52:EA:1A:F5:E0:77:29:70:13:E1:55:38:B3:30:EB:5B:9D:57:5C:E5:D1:41:36:F5:85:2D",
+        "15:16:E2:C5:CA:E6:20:4F:CF:36:D6:0C:96:5C:C8:90:C6:EC:51:5D:BF:4F:CB:CF:96:B6:50:37:2E:32:E5:E1"
       ]
     }
   }
