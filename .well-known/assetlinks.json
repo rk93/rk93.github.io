@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kiranova.chessanalyser",
+      "sha256_cert_fingerprints": [
+        "E5:B7:63:6C:E7:E5:52:EA:1A:F5:E0:77:29:70:13:E1:55:38:B3:30:EB:5B:9D:57:5C:E5:D1:41:36:F5:85:2D"
+      ]
+    }
+  }
+]
